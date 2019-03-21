@@ -1,6 +1,5 @@
 # Front-end Development Workshop
 
----
 
 Welcome to front-end development workshop! This workshop is designed for creative students with basic understanding of coding at [ITP](https://tisch.nyu.edu/itp).
 
@@ -23,7 +22,6 @@ To achieve this goal, we'll focus on these following topics:
 
 For more details of the syllabus, please visit [syllabus page](itp-front-end/syllabus)
 
----
 
 ## Information
 
