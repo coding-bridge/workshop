@@ -19,11 +19,35 @@ Please bring your personal laptop and required softwares listed in [deliverable 
 
 ---
 
-## 📍 Schedule (WIP)
+## 📍 Schedule
 
-- terminal and git
-- design principle (grid and component)
-- static v.s. dynamic
-- project setup
-- HTML as website entry point
+- **Intro:** CodingBridge and workshop
+- **Jargons:** front end, back end, static and dynamic
+- **Terminal and Git:** get comfortable with using it
+- **Init the project:** setup and basic structure
+- **Front-end design 101:** [grid system](https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-margins), [Atomic design](http://atomicdesign.bradfrost.com/chapter-2/) and [BEM](http://getbem.com/naming/)
+- Exercise information
+- Website idea review and open discussion
+
+---
+
+## 👩‍💻 Exercise
+
+### Modulization and development of UI design
+
+There's two parts of this week's exercise:
+
+1. **UI design modulization:**
+
+	- **Goal:**
+
+		Try to separate the UI design of your website based on the [Atomic principle](http://atomicdesign.bradfrost.com/chapter-2/), and give names to each components based on [BEM principle](http://getbem.com/naming/). Note that there's no absolute right way to modulize an interface, and naming components could be hard at first. Just do it in the way that makes sense to you.
+
+	- **Deliverable:**
+
+		1. Export the outcome of modulization and namings of UI design as documentation, which could `pdf`, `jpeg`, `Google Doc` or any formats preferred.
+		2. Push the document onto your own GitHub repo.
+		3. Create a `Pull Request` to [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
+
+2. **HTML and CSS development:**
 
