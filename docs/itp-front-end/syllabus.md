@@ -17,20 +17,20 @@ The topics listed here are not fixed due to huge amount of uncertainty. Please l
 - CSS position, display and selectors
 - RWD
 - JS and browser
+- GitHub issue and collaboration
 
 ## W3: Front-end workflow and design pattern
 
-- Bundler & runner (parcel)
+- Bundler & runner (Parcel, Gulp and Webpack)
 - code organization
 - design system
 - css processors
 
 ## W4: Server side intro and deployment
 
-- What's PHP?
-- Template engine
-- Heroku and Netlify
+- Template engine (components and modules)
 - CMS, headless CMS and static site generator
+- Heroku and Netlify
 
 ## W5: TBD
 
