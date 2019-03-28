@@ -45,9 +45,38 @@ There's two parts of this week's exercise:
 
 	- **Deliverable:**
 
-		1. Export the outcome of modulization and namings of UI design as documentation, which could `pdf`, `jpeg`, `Google Doc` or any formats preferred.
-		2. Push the document onto your own GitHub repo.
-		3. Create a `Pull Request` to [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
+		- Export the outcome of modulization and namings of UI design as documentation, which could `pdf`, `jpeg`, `Google Doc` or any formats preferred.
+		- Push the document onto your own GitHub repo.
+		- Add the link of your work in `week 1` section and create a `pull request` to [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo. *(It's not required to do this if you don't want to show your project in this repo.)*
 
 2. **HTML and CSS development:**
+
+	- **Goal:**
+
+		Build basic interface by focusing on stylings (`HTML` and `CSS`) as much as you can. User interactions (`JavaScript`) can be ignored for now. Few notes here:
+
+		1. Use `Python` local server or other options you prefer to run the bundle. If Python version is 3.X, the command is `python3 -m http.server`; if it's 2.X, the command is `python -m SimpleHTTPServer`. More information [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server).
+
+		2. Basic folder structure of the project should be like:
+			```
+			root folder of your project
+			|	README.md
+			|	.gitignore
+			|	index.html
+			|
+			| -- style
+			|	|
+			|	| style.css
+			|
+			| -- js
+			|	|
+			|	| script.js
+			```
+
+	- **Deliverable:**
+
+		1. Try to configure and publish the repo by using [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
+
+		2. Add the link of your work in `week 1` section and create a `pull request` to [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo. *(It's not required to do this if you don't want to show your project in this repo.)*
+
 
