@@ -6,31 +6,31 @@ The topics listed here are not fixed due to huge amount of uncertainty. Please l
 
 ## W1: Intro to front-end development
 
-- terminal and git
-- design principle (grid and component)
+- `Terminal` and `Git`
+- Design principle (grid and component)
 - static v.s. dynamic
 - project setup
-- HTML as website entry point
+- `HTML` as website entry point
 
 ## W2: Interface layout and user interaction
 
-- CSS position, display and selectors
-- RWD
-- JS and browser
-- GitHub issue and collaboration
+- `CSS` position, display and selectors
+- `RWD`
+- `JavaScript` and user events
+- `GitHub` issue and collaboration
 
 ## W3: Front-end workflow and design pattern
 
-- Bundler & runner (Parcel, Gulp and Webpack)
-- code organization
-- design system
-- css processors
+- Bundler & runner (`Parcel`, `Gulp` and `Webpack`)
+- Code organization
+- Design system
+- `CSS` processors
 
 ## W4: Server side intro and deployment
 
 - Template engine (components and modules)
-- CMS, headless CMS and static site generator
-- Heroku and Netlify
+- `CMS`, headless CMS and static site generator
+- `Heroku` and `Netlify`
 
 ## W5: TBD
 
