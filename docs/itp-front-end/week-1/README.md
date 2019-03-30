@@ -2,6 +2,7 @@
 
 - **Date:** 14:00 - 17:00, Saturday, March 30
 - **Location:** Room 15
+- [Google Slides](https://docs.google.com/presentation/d/1c0d_Mylppw2TvIMzKSqJKeAnP7DKSfdn3zMpCuPc3GE/edit?usp=sharing)
 
 ---
 
