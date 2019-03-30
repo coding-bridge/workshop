@@ -6,4 +6,4 @@
 	* [Syllabus](/itp-front-end/syllabus.md)
 
 	* [Week 1](/itp-front-end/week-1/README.md)
-		* [Resources](/itp-front-end/week-1/resources.md)
+		<!-- * [Resources](/itp-front-end/week-1/resources.md) -->
