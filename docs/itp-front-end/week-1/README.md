@@ -25,7 +25,7 @@ Please bring your personal laptop and required softwares listed in [deliverable 
 - **Jargons:** front end, back end, static and dynamic
 - **Terminal and Git:** get comfortable with using it
 - **Init the project:** setup and basic structure
-- **Front-end design 101:** [grid system](https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-margins), [Atomic design](http://atomicdesign.bradfrost.com/chapter-2/) and [BEM](http://getbem.com/naming/)
+- **Front-end mindset 101:** [grid system](https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-margins), [Atomic design](http://atomicdesign.bradfrost.com/chapter-2/) and [BEM](http://getbem.com/naming/)
 - Exercise information
 - Website idea review and open discussion
 
@@ -47,7 +47,9 @@ There's two parts of this week's exercise:
 
 		- Export the outcome of modulization and namings of UI design as documentation, which could `pdf`, `jpeg`, `Google Doc` or any formats preferred.
 		- Push the document onto your own GitHub repo.
-		- Add the link of your work in `week 1` section and create a `pull request` to [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo. *(It's not required to do this if you don't want to show your project in this repo.)*
+		- Challenge:
+			1. Try to follow the [tutorial](https://guides.github.com/activities/forking/) to `fork` [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
+			2. Add the link of your work in `week 1` section and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to origin repo (front-end-workshop-2019).
 
 2. **HTML and CSS development:**
 
@@ -75,8 +77,10 @@ There's two parts of this week's exercise:
 
 	- **Deliverable:**
 
-		1. Try to configure and publish the repo by using [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages)
+		- Try to configure and publish the repo by using [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
 
-		2. Add the link of your work in `week 1` section and create a `pull request` to [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo. *(It's not required to do this if you don't want to show your project in this repo.)*
+		- Challenge:
+			1. Try to follow the [tutorial](https://guides.github.com/activities/forking/) to `fork` [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
+			2. Add the link of your work in `week 1` section and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to origin repo (front-end-workshop-2019).
 
 

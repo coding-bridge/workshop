@@ -5,7 +5,7 @@ Welcome to front-end development workshop! This workshop is designed for creativ
 
 ## Goal
 
-**👉 Learn the skills to build a static website from scratch**
+**👉 Learn practical front-end skills and mindset**
 
 Hopefully, by learning practical front-end development skill, one would have the ability to build a customized website to showcase projects, thoughts and more works with efficiency and uniqueness. Therefore, the main goal here is to learn basic techniques of front-end development, including HTML, CSS, JavaScript and workflow. Aside from the stack, since it's almost impossible to escape from using Git and terminal, the other important goal of this workshop is getting familiar and confident at using them.
 
