@@ -14,8 +14,7 @@ The topics listed here are not fixed due to huge amount of uncertainty. Please l
 ## W2: Interface layout
 
 - `HTML`, [DOM](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model) and [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-- `CSS` position, display and [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model)
-- Responsive Web Design and `media queries`
+- `CSS` position, display, [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model) and [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 ## W3: User interaction
 
