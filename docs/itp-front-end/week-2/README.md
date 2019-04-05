@@ -6,6 +6,16 @@
 
 ---
 
+## 📚 Prerequisite
+
+*Note on 2019/4/5: trying to use VSCode Live Share extension to collaborate in class*
+
+### 1. VSCode and Live Share extension
+
+We'll be using the Live Share extension of VSCode to collaborate and learn in this workshop. Please download [VSCode](https://visualstudio.microsoft.com/free-developer-offers/) and install [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare) to join the session.
+
+---
+
 ## 📍 Schedule
 
 - `HTML`, [DOM](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model) and [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
