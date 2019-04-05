@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Preparation before class
+## 📚 Prerequisite
 
 Materials in following list should be prepared before week 1 workshop. Thank you!
 
