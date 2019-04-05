@@ -34,54 +34,40 @@ Please bring your personal laptop and required softwares listed in [deliverable 
 
 ## 👩‍💻 Exercise
 
-### Modulization and development of UI design
+#### 1. UI design modulization:
 
-There's two parts of this week's exercise:
+- **Goal:**
 
-1. **UI design modulization:**
+	Try to separate the UI design of your website based on the [Atomic principle](http://atomicdesign.bradfrost.com/chapter-2/), and give names to each components based on [BEM principle](http://getbem.com/naming/).
 
-	- **Goal:**
+- **Deliverable:** Export the outcome of modulization and namings of UI design as documentation, and push the document onto your own GitHub repo.
 
-		Try to separate the UI design of your website based on the [Atomic principle](http://atomicdesign.bradfrost.com/chapter-2/), and give names to each components based on [BEM principle](http://getbem.com/naming/). Note that there's no absolute right way to modulize an interface, and naming components could be hard at first. Just do it in the way that makes sense to you.
+#### 2. HTML and CSS development:
 
-	- **Deliverable:**
+- **Goal:**
 
-		- Export the outcome of modulization and namings of UI design as documentation, which could `pdf`, `jpeg`, `Google Doc` or any formats preferred.
-		- Push the document onto your own GitHub repo.
-		- Challenge:
-			1. Try to follow the [tutorial](https://guides.github.com/activities/forking/) to `fork` [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
-			2. Add the link of your work in `week 1` section and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to origin repo (front-end-workshop-2019).
+	Build basic interface by focusing on stylings (`HTML` and `CSS`) as much as you can. User interactions (`JavaScript`) can be ignored for now. Basic folder structure of the project should be like:
 
-2. **HTML and CSS development:**
+	```
+	root folder of your project
+	|	README.md
+	|	.gitignore
+	|	index.html
+	|
+	| -- style
+	|	|
+	|	| style.css
+	|
+	| -- js
+	|	|
+	|	| script.js
+	```
 
-	- **Goal:**
+- **Deliverable:** Try to publish the repo by using [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
 
-		Build basic interface by focusing on stylings (`HTML` and `CSS`) as much as you can. User interactions (`JavaScript`) can be ignored for now. Few notes here:
+---
 
-		1. Use `Python` local server or other options you prefer to run the bundle. If Python version is 3.X, the command is `python3 -m http.server`; if it's 2.X, the command is `python -m SimpleHTTPServer`. More information [here](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server).
+To submit the exercise, you can:
 
-		2. Basic folder structure of the project should be like:
-			```
-			root folder of your project
-			|	README.md
-			|	.gitignore
-			|	index.html
-			|
-			| -- style
-			|	|
-			|	| style.css
-			|
-			| -- js
-			|	|
-			|	| script.js
-			```
-
-	- **Deliverable:**
-
-		- Try to configure and publish the repo by using [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
-
-		- Challenge:
-			1. Try to follow the [tutorial](https://guides.github.com/activities/forking/) to `fork` [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
-			2. Add the link of your work in `week 1` section and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to origin repo (front-end-workshop-2019).
-
-
+1. Try to follow the [tutorial](https://guides.github.com/activities/forking/) to `fork` [front-end-workshop-2019](https://github.com/coding-bridge/front-end-workshop-2019) repo.
+2. Add the link of your work in `week 1` section and create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) to origin repo (front-end-workshop-2019).
