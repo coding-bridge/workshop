@@ -10,28 +10,34 @@ The topics listed here are not fixed due to huge amount of uncertainty. Please l
 - Design principle (grid and component)
 - static v.s. dynamic
 - project setup
-- `HTML` as website entry point
 
-## W2: Interface layout and user interaction
+## W2: Interface layout
 
-- `CSS` position, display and selectors
-- `RWD`
+- `HTML`, [DOM](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model) and [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+- `CSS` position, display and [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model)
+- Responsive Web Design and `media queries`
+
+## W3: User interaction
+
 - `JavaScript` and user events
-- `GitHub` issue and collaboration
+	- modal
+	- accordion
+	- carousel
+	- scroll-event
 
-## W3: Front-end workflow and design pattern
+## W4: Front-end workflow
 
 - Bundler & runner (`Parcel`, `Gulp` and `Webpack`)
-- Code organization
-- Design system
 - `CSS` processors
 
-## W4: Server side intro and deployment
+## W5: Server side intro and deployment
 
 - Template engine (components and modules)
 - `CMS`, headless CMS and static site generator
 - `Heroku` and `Netlify`
 
-## W5: TBD
-
 ## W6: TBD
+
+*- `GitHub` issue and collaboration*
+*- Code organization*
+*- Design system*
