@@ -1,4 +1,4 @@
-# w2: Interface layout testing
+# w2: Interface layout
 
 - **Date:** 14:00 - 17:00, Saturday, April 6
 - **Location:** Room 15
