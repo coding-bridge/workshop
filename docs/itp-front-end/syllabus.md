@@ -14,18 +14,20 @@ The topics listed here are not fixed due to huge amount of uncertainty. Please l
 ## W2: Interface layout
 
 - `HTML`, [DOM](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model) and [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-- `CSS` position, display, [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model) and [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- `CSS` position, display, [Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/CSS/Visual_formatting_model)
 
-## W3: User interaction
+## W3: Responsive layout and user interaction
+
+- `CSS`: [box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model), [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) and [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- `JavaScript` event listener
+
+## W4: Front-end workflow
 
 - `JavaScript` and user events
 	- modal
 	- accordion
 	- carousel
 	- scroll-event
-
-## W4: Front-end workflow
-
 - Bundler & runner (`Parcel`, `Gulp` and `Webpack`)
 - `CSS` processors
 
