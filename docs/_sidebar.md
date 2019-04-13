@@ -7,3 +7,4 @@
 
 	* [Week 1](/itp-front-end/week-1/README.md)
 	* [Week 2](/itp-front-end/week-2/README.md)
+	* [Week 3](/itp-front-end/week-3/README.md)
