@@ -3,6 +3,7 @@
 - **Date:** 14:00 - 17:00, Saturday, April 13
 - **Location:** Room 15
 - [Google Slides](https://docs.google.com/presentation/d/1sXOYkPBY0l4djKHeva9vxXAkwSjdBHi3-TUI1IOX7W4/edit?usp=sharing)
+- [In class exercise repo](https://github.com/coding-bridge/front-end-workshop_examples/tree/master/css-practice)
 
 ---
 
@@ -17,7 +18,6 @@ We'll be using the Live Share extension of VSCode to collaborate and learn in th
 ## 📍 Schedule
 
 - `CSS`: [box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model), [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) and [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-- `JavaScript` event listener
 
 ---
 

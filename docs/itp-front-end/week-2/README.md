@@ -3,6 +3,7 @@
 - **Date:** 14:00 - 17:00, Saturday, April 6
 - **Location:** Room 15
 - [Google Slides](https://docs.google.com/presentation/d/1SVRW3YBz7Nrhw1m9Rrhcn7c7qUGP34urjvXKbIbwkKY/edit?usp=sharing)
+- [In class exercise repo](https://github.com/coding-bridge/front-end-workshop_examples/tree/master/css-layout)
 
 ---
 

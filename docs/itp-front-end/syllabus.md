@@ -21,15 +21,12 @@ The topics listed here are not fixed due to huge amount of uncertainty. Please l
 - `CSS`: [box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model), [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) and [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - `JavaScript` event listener
 
-## W4: Front-end workflow
+## W4: Event listener and project at scale
 
-- `JavaScript` and user events
-	- modal
-	- accordion
-	- carousel
-	- scroll-event
-- Bundler & runner (`Parcel`, `Gulp` and `Webpack`)
-- `CSS` processors
+- `JavaScript` event listener
+- `CSS` pre-processor [Sass](https://sass-lang.com/)
+- `Task runner` ([gulp](https://gulpjs.com/)) and `bundler` ([parcel](https://parceljs.org/), [webpack](https://webpack.js.org/))
+
 
 ## W5: Server side intro and deployment
 
